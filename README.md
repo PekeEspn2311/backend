@@ -35,6 +35,7 @@ Para instalar y ejecutar el backend localmente, sigue estos pasos:
 ## Configuración de componentes
 
 | Nombre del Componente | Descripción | Enlace |
+|-----------------------|-------------|--------|
 | index.js              | Archivo principal del servidor backend. | [index.js](index.js) |
 | Product               | Modelo de datos para los productos. | [Product.js](models/Product.js) |
 | productRoutes         | Define las rutas de la API para productos. | [productRoutes.js](routes/productRoutes.js) |
